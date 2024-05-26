@@ -1,2 +1,2 @@
 # MeanAndVar
-original version
+work with mean and disp only
